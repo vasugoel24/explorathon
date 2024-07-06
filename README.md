@@ -1,1 +1,2 @@
 # explorathon
+is a hackthon
